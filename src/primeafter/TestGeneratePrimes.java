@@ -1,7 +1,6 @@
 package primeafter;
 
 import junit.framework.*;
-import junit.runner.*;
 
 public class TestGeneratePrimes extends TestCase
 {
