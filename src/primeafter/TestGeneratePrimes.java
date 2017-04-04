@@ -1,14 +1,15 @@
 package primeafter;
 
 import junit.framework.*;
+import junit.runner.*;
 
 public class TestGeneratePrimes extends TestCase
 {
-  public static void main(String args[])
-  {
-      junit.swingui.TestRunner.main(
-        new String[] {"TestGeneratePrimes"});
-  }
+//  public static void main(String args[])
+//  {
+//      junit.swingui.TestRunner.main(
+//        new String[] {"TestGeneratePrimes"});
+//  }
   public TestGeneratePrimes(String name)
   {
     super(name);
