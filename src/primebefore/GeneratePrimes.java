@@ -27,7 +27,7 @@
  * @author zx7y-kmr
  *
  */
-package before;
+package primebefore;
 public class GeneratePrimes
 {
   /**

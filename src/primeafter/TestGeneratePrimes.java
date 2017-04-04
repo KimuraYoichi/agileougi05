@@ -1,4 +1,4 @@
-package after;
+package primeafter;
 
 import junit.framework.*;
 

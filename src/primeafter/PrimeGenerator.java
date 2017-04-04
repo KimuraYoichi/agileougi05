@@ -6,7 +6,7 @@
  * multiples.  Repeat until there are no more multiples
  * in the array.
  */
-package after;
+package primeafter;
 public class PrimeGenerator
 {
   private static boolean[] crossedOut;

@@ -1,4 +1,4 @@
-package before;
+package primebefore;
 public class GeneratePrimeMain {
 
 	public static void main(String[] args) {
